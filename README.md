@@ -23,36 +23,59 @@
 
 <h3>🚀 About Me</h3>
 <p>
-  I’m passionate about developing intelligent systems that merge <strong>data, algorithms, and human insight</strong>.
-  My journey in tech has led me to work on projects involving 
-  <strong>medical prediction models</strong>, 
-  <strong>AI-powered assistants</strong>, and 
-  <strong>data visualization for decision-making</strong>.
+  I’m an engineering student with a strong interest in building 
+  <strong>scalable, intelligent, and reliable systems</strong> that sit at the intersection of
+  <strong>data, algorithms, and infrastructure</strong>.
 </p>
 
 <p>
-  I’m constantly exploring the frontiers of <strong>machine learning, deep learning, and applied AI</strong>,
-  with a focus on creating data-driven solutions that make a meaningful impact.
+  Throughout my academic and professional journey, I’ve worked on projects involving:
+</p>
+
+<ul>
+  <li>📊 <strong>Data processing and visualization</strong> to support decision-making</li>
+  <li>🧠 <strong>Machine learning models</strong> for real-world prediction tasks</li>
+  <li>🖥️ <strong>Software systems</strong> with performance, robustness, and usability in mind</li>
+</ul>
+
+<p>
+  I enjoy understanding not only <em>what</em> systems do, but also <em>how</em> they work end-to-end —
+  from data acquisition and pipelines to models, deployment, and system constraints.
 </p>
 
 <hr>
 
-<h3>🧠 Tech Stack</h3>
+<h3>🧠 Technical Skills</h3>
+
 <ul>
-  <li><strong>Languages:</strong> Python, C/C++, Java, JavaScript, SQL, Haskell</li>
-  <li><strong>ML/AI Frameworks:</strong> TensorFlow, PyTorch, scikit-learn, XGBoost, Pandas, NumPy</li>
-  <li><strong>Other Skills:</strong> Data preprocessing, model validation, explainability, visualization</li>
+  <li>
+    <strong>Programming Languages:</strong>  
+    Python, C/C++, Java, JavaScript, SQL, Haskell
+  </li>
+  <li>
+    <strong>Data & AI:</strong>  
+    Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, XGBoost, data preprocessing & validation
+  </li>
+  <li>
+    <strong>Systems & Engineering:</strong>  
+    Linux, basic networking concepts, performance-aware programming, software architecture
+  </li>
+  <li>
+    <strong>Other:</strong>  
+    Data visualization, model explainability, reproducible experiments
+  </li>
 </ul>
 
 <hr>
 
-<h3>🌱 Currently</h3>
-<p>
-  📘 Expanding my knowledge in <strong>Deep Learning</strong>, <strong>AI Ethics</strong>, and <strong>Production Deployment</strong><br>
-  🤝 Open to collaborating on <strong>AI, ML, or Data Science projects</strong>
-</p>
+<h3>🌱 Currently Focused On</h3>
 
-<hr>
+<p>
+  📘 Strengthening my foundations in <strong>Machine Learning</strong>, 
+  <strong>Data Systems</strong>, and <strong>Computer & Network Engineering</strong><br>
+  🔬 Interested in research-oriented and applied engineering projects<br>
+  🤝 Open to collaborating on <strong>AI, Data, Systems, or Engineering-focused projects</strong>
+</p>
 
 <h3>📫 Connect with Me</h3>
 <p>
