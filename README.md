@@ -5,20 +5,9 @@
   🎓 <em>Bachelor’s student in Informatics and Computer Engineering</em> at 
   <strong>FEUP – Faculty of Engineering of the University of Porto</strong>
   <br>
-  💻 <strong>Aspiring Machine Learning & AI Engineer</strong>
+  💻 <strong>Aspiring Machine Learning, AI and Data Engineer </strong>
 </p>
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=manoelablanke4&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300"
-    alt="GitHub Stats"
-    style="margin: 10px;"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoelablanke4&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-    alt="Top Languages"
-    style="margin: 10px;"
-  />
-</p>
+
 
 <br><br>
 
