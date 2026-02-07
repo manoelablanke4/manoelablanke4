@@ -50,7 +50,7 @@
 <ul>
   <li>
     <strong>Programming Languages:</strong>  
-    Python, C/C++, Java, JavaScript, SQL, Haskell
+    Python, C/C++, Java, JavaScript, SQL, Haskell, Prolog, HTML, CSS, PHP
   </li>
   <li>
     <strong>Data & AI:</strong>  
