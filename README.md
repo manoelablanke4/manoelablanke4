@@ -68,6 +68,20 @@
 
 <hr>
 
+## 📂 Academic Projects
+
+| UC   | Name       | Description |
+|------|------------|-------------|
+| DA   | [Urban Navigation Path-Planning Tool](https://github.com/manoelablanke4/Project-1-DA) | Graph-based urban navigation system in C++ that computes optimal and constrained routes, supporting road restrictions and environmentally-friendly mobility scenarios. |
+| RCOM | [Reliable Serial Communication Protocol](https://github.com/manoelablanke4/RCOM) | C implementation of an FTP download client using TCP sockets, handling URL parsing, authentication, passive mode, and file transfer. |
+| RCOM | [FTP Client over TCP](https://github.com/manoelablanke4/RCOM-L2) | C implementation of a reliable data link layer over a serial connection, using framing, error detection, and Stop-and-Wait ARQ to ensure correct file transfer. |
+| PROG | [SVG Parser](https://github.com/manoelablanke4/svg-parser-cpp) | Graph-based navigation system for the STCP public transport network (Google Maps–like) |
+| ESOF | [SobrasPhere](https://github.com/FEUP-LEIC-ES-2023-24/2LEIC10T3) | App that works similarly to ToGoodToGo but for academic establishments |
+| BD   | [Warehouse DataBase](https://github.com/manoelablanke4/Y2S1-DataBase) | BD to efficiently manage the stock of parts and components utilized in various engineering projects, equipment maintenance, and related services within the company's workshop. |
+| AI   | [Mushroom Classifier](https://github.com/leonardorsg/IA-PROJ2-MushroomClassifier) | Supervised learning project comparing multiple classifiers for edible vs. poisonous mushroom prediction, highlighting the impact of data quality on model reliability. |
+| AI   | [Drone Delivery Scheduling](https://github.com/marcelmedeiros1/IA-PROJ-1) | Optimization and scheduling problem for coordinating drone deliveries under capacity, stock, and deadline constraints. |
+<hr>
+
 <h3>🌱 Currently Focused On</h3>
 
 <p>
