@@ -76,6 +76,8 @@
 | DA   | [Pallet Packing Optimization Tool](https://github.com/ricfer111/DA-Project2) | C++ optimization tool comparing brute-force, dynamic programming, greedy, and genetic algorithms for a pallet packing (knapsack) problem. |
 | RC   | [Reliable Serial Communication Protocol](https://github.com/manoelablanke4/RCOM) | C implementation of an FTP download client using TCP sockets, handling URL parsing, authentication, passive mode, and file transfer. |
 | RC   | [FTP Client over TCP](https://github.com/manoelablanke4/RCOM-L2) | C implementation of a reliable data link layer over a serial connection, using framing, error detection, and Stop-and-Wait ARQ to ensure correct file transfer. |
+| CPD  | [Parallel Programming](https://github.com/mariaarabelo/parallel) | This project studies processor performance when accessing large amounts of data, based on the multiplication of two matrices. |
+| CPD  | [Chat Server](https://github.com/mariaarabelo/chat-server) | A multi-room, token-authenticated chat system built in Java using virtual threads. |
 | LTW  | [MarTechPlace](https://github.com/FEUP-LTW-2024/ltw-project-2024-ltw16g04) | Website of selling and buying gadgets implemented with HTML, CSS and PHP. |
 | LTDS | [UniverseBomb](https://github.com/FEUP-LDTS-2023/Project-Bomberman) | Game developed with JAVA based on the popular retro game Bomberman. |
 | PROG | [SVG Parser](https://github.com/manoelablanke4/svg-parser-cpp) | Graph-based navigation system for the STCP public transport network (Google Maps–like) |
