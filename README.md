@@ -1,11 +1,11 @@
 
-<h2 align="center">👋 Hi there, I'm <strong>Manoela Blanke Américo</strong></h2>
+<h2 align="center"> Hi there, I'm <strong>Manoela Blanke Américo</strong></h2>
 
 <p align="center">
-  🎓 <em>Bachelor’s student in Informatics and Computer Engineering</em> at 
+  <em>Bachelor’s student in Informatics and Computer Engineering</em> at 
   <strong>FEUP – Faculty of Engineering of the University of Porto</strong>
   <br>
-  💻 <strong>Aspiring Machine Learning, AI and Data Engineer </strong>
+  <strong>Aspiring Machine Learning, AI and Data Engineer </strong>
 </p>
 
 
@@ -21,7 +21,7 @@
 </p>
 <br>
 
-<h3>🚀 About Me</h3>
+<h3>👋 About Me</h3>
 <p>
   I’m an engineering student with a strong interest in building 
   <strong>scalable, intelligent, and reliable systems</strong> that sit at the intersection of
@@ -33,9 +33,9 @@
 </p>
 
 <ul>
-  <li>📊 <strong>Data processing and visualization</strong> to support decision-making</li>
-  <li>🧠 <strong>Machine learning models</strong> for real-world prediction tasks</li>
-  <li>🖥️ <strong>Software systems</strong> with performance, robustness, and usability in mind</li>
+  <li> <strong>Data processing and visualization</strong> to support decision-making</li>
+  <li> <strong>Machine learning models</strong> for real-world prediction tasks</li>
+  <li> <strong>Software systems</strong> with performance, robustness, and usability in mind</li>
 </ul>
 
 <p>
@@ -92,10 +92,10 @@
 <h3>🌱 Currently Focused On</h3>
 
 <p>
-  📘 Strengthening my foundations in <strong>Machine Learning</strong>, 
+  - Strengthening my foundations in <strong>Machine Learning</strong>, 
   <strong>Data Systems</strong>, and <strong>Computer & Network Engineering</strong><br>
-  🔬 Interested in research-oriented and applied engineering projects<br>
-  🤝 Open to collaborating on <strong>AI, Data, Systems, or Engineering-focused projects</strong>
+  -  Interested in research-oriented and applied engineering projects<br>
+  - Open to collaborating on <strong>AI, Data, Systems, or Engineering-focused projects</strong>
 </p>
 
 <h3>📫 Connect with Me</h3>
